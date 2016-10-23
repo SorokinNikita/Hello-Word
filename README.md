@@ -1,3 +1,2 @@
-# Hello-Word
-Meet with Git
+# Hello-Word!
 I am tired student from Russia. I lerning Front-End.
